@@ -5,3 +5,8 @@
 <br>
 
 <img src="https://github.com/Willianpontes/projeto-newPerfum/blob/main/img/read%20me.png?raw=true">
+<br>
+<p> Reponsividade
+<br>
+<br>
+<img src="https://github.com/Willianpontes/projeto-newPerfum/blob/main/img/mobile-design.jpg?raw=true">
